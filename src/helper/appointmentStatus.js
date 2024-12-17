@@ -1,0 +1,7 @@
+export const APPOINTMENT_STATUS = {
+    PENDING: "PENDING",
+    APPROVED: "APPROVED",
+    CANCELLED: "CANCELLED",
+    DELETED: "DELETED",
+  };
+  
